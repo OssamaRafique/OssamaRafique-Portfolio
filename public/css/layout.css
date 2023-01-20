@@ -592,8 +592,8 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  -webkit-clip-path: polygon(31% 0, 100% 25%, 61% 100%, 0 93%);
-  clip-path: polygon(31% 0, 100% 25%, 61% 100%, 0 93%);
+  -webkit-clip-path: polygon(100% 0, 100% 38%, 65% 98%, 0 87%, 0 0);
+  clip-path: polygon(100% 0, 100% 38%, 65% 98%, 0 87%, 0 0);
 }
 
 .section.started .started-content .h-title {
@@ -1005,7 +1005,7 @@
   .section.started .started-content .logo {
     top: -11.5vh;
     left: -18.5vw;
-    width: 56vw;
+    width: 40vw;
     height: 80vh;
   }
   .section.started.personal .started-content .h-title {
