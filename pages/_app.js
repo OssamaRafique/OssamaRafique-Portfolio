@@ -23,6 +23,15 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="css/brands.css" />
         <link rel="stylesheet" href="css/solid.css" />
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-JTVEVJ7WZJ"
+        ></script>
+        <script>
+          window.dataLayer = window.dataLayer || []; function gtag()
+          {dataLayer.push(arguments)}
+          gtag('js', new Date()); gtag('config', 'G-JTVEVJ7WZJ');
+        </script>
       </Head>
       <Component {...pageProps} />
     </Fragment>
