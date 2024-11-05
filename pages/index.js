@@ -19,7 +19,7 @@ const Index = () => {
               />
               <h1 className="h-title">
                 Hello, I’m <strong>Ossama Rafique</strong>, <br />
-                Front-end Engineer Based in Vancouver 🇨🇦
+                Front-end Engineer Based in Toronto 🇨🇦
               </h1>
               <TypingAnimation extraClassName={"typed-subtitle"} />
               <span className="typed-subtitle" />
